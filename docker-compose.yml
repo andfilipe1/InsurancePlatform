@@ -1,0 +1,25 @@
+name: indt-insurance
+
+services:
+  proposta:
+    build:
+      context: ./src/PropostaService.Api
+      dockerfile: Dockerfile
+    ports:
+      - "5201:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  contratacao:
+    build:
+      context: ./src/ContratacaoService.Api
+      dockerfile: Dockerfile
+    ports:
+      - "5202:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - PropostaService__BaseUrl=http://proposta:8080/
+    depends_on:
+      - proposta
+
+

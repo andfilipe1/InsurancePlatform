@@ -1,0 +1,15 @@
+C:\Code\Desafios\INDT\src\PropostaService.Application\bin\Debug\net8.0\PropostaService.Application.deps.json
+C:\Code\Desafios\INDT\src\PropostaService.Application\bin\Debug\net8.0\PropostaService.Application.dll
+C:\Code\Desafios\INDT\src\PropostaService.Application\bin\Debug\net8.0\PropostaService.Application.pdb
+C:\Code\Desafios\INDT\src\PropostaService.Application\bin\Debug\net8.0\PropostaService.Domain.dll
+C:\Code\Desafios\INDT\src\PropostaService.Application\bin\Debug\net8.0\PropostaService.Domain.pdb
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.csproj.AssemblyReference.cache
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.AssemblyInfoInputs.cache
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.AssemblyInfo.cs
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.csproj.CoreCompileInputs.cache
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\Proposta.3E26D591.Up2Date
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.dll
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\refint\PropostaService.Application.dll
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.pdb
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\ref\PropostaService.Application.dll
