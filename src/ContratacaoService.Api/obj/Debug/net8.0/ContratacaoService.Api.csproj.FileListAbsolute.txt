@@ -1,9 +1,0 @@
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\ContratacaoService.Api.exe
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\ContratacaoService.Api.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\ContratacaoService.Application.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\ContratacaoService.Domain.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\bin\Debug\net8.0\ContratacaoService.Infrastructure.dll

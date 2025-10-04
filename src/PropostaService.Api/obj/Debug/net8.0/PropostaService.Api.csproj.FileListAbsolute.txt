@@ -1,9 +1,0 @@
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\PropostaService.Api.exe
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\PropostaService.Api.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\PropostaService.Application.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\PropostaService.Domain.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\bin\Debug\net8.0\PropostaService.Infrastructure.dll
