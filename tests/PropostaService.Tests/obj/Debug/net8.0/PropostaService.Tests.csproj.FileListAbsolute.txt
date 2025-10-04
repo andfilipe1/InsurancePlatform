@@ -100,3 +100,4 @@ C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\ref\PropostaS
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PropostaService.Tests
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\PropostaService.Domain.dll
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\PropostaService.Domain.pdb
+C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.sourcelink.json

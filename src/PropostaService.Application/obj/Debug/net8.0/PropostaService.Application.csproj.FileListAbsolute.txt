@@ -13,3 +13,4 @@ C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaS
 C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\refint\PropostaService.Application.dll
 C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.pdb
 C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\ref\PropostaService.Application.dll
+C:\Code\Desafios\INDT\src\PropostaService.Application\obj\Debug\net8.0\PropostaService.Application.sourcelink.json

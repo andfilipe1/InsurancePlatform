@@ -9,3 +9,4 @@ C:\Code\Desafios\INDT\src\PropostaService.Domain\obj\Debug\net8.0\PropostaServic
 C:\Code\Desafios\INDT\src\PropostaService.Domain\obj\Debug\net8.0\refint\PropostaService.Domain.dll
 C:\Code\Desafios\INDT\src\PropostaService.Domain\obj\Debug\net8.0\PropostaService.Domain.pdb
 C:\Code\Desafios\INDT\src\PropostaService.Domain\obj\Debug\net8.0\ref\PropostaService.Domain.dll
+C:\Code\Desafios\INDT\src\PropostaService.Domain\obj\Debug\net8.0\PropostaService.Domain.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PropostaService.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6533efaae328a313625b9a641d34ce023aa189cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PropostaService.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PropostaService.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

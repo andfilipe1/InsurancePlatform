@@ -104,3 +104,4 @@ C:\Code\Desafios\INDT\tests\ContratacaoService.Tests\bin\Debug\net8.0\Contrataca
 C:\Code\Desafios\INDT\tests\ContratacaoService.Tests\bin\Debug\net8.0\ContratacaoService.Domain.pdb
 C:\Code\Desafios\INDT\tests\ContratacaoService.Tests\bin\Debug\net8.0\ContratacaoService.Application.pdb
 C:\Code\Desafios\INDT\tests\ContratacaoService.Tests\bin\Debug\net8.0\ContratacaoService.Infrastructure.pdb
+C:\Code\Desafios\INDT\tests\ContratacaoService.Tests\obj\Debug\net8.0\ContratacaoService.Tests.sourcelink.json

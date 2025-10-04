@@ -15,3 +15,4 @@ C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\Propos
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\refint\PropostaService.Infrastructure.dll
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.pdb
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\ref\PropostaService.Infrastructure.dll
+C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.sourcelink.json

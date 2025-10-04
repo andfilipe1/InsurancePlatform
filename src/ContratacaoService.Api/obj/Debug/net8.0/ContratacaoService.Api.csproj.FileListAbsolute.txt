@@ -39,3 +39,4 @@ C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\refint\Contrat
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.pdb
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.genruntimeconfig.cache
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ref\ContratacaoService.Api.dll
+C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.sourcelink.json
