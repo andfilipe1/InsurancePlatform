@@ -12,7 +12,7 @@ public class PropostaStatusHttpClient : IPropostaStatusClient
         _http = http;
     }
 
-    private sealed record PropostaResponse(Guid Id, string NomeCliente, string DocumentoCliente, decimal Premio, string Status, DateTime CriadaEm);
+    private sealed record PropostaResponse(Guid Id, string NomeCliente, string DocumentoCliente, decimal Premio, int Status, DateTime CriadaEm);
 
     public async Task<PropostaStatusDto?> ObterStatusAsync(Guid propostaId, CancellationToken ct = default)
     {
@@ -26,9 +26,9 @@ public class PropostaStatusHttpClient : IPropostaStatusClient
 
         return dto.Status switch
         {
-            "EmAnalise" => PropostaStatusDto.EmAnalise,
-            "Aprovada" => PropostaStatusDto.Aprovada,
-            "Rejeitada" => PropostaStatusDto.Rejeitada,
+            0 => PropostaStatusDto.EmAnalise,
+            1 => PropostaStatusDto.Aprovada,
+            2 => PropostaStatusDto.Rejeitada,
             _ => null
         };
     }
