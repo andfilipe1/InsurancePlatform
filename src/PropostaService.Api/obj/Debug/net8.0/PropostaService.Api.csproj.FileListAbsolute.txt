@@ -23,6 +23,7 @@ C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.A
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.Api.csproj.CoreCompileInputs.cache
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.Api.sourcelink.json
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\scopedcss\bundle\PropostaService.Api.styles.css
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -39,4 +40,3 @@ C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\refint\PropostaSe
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.Api.pdb
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.Api.genruntimeconfig.cache
 C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\ref\PropostaService.Api.dll
-C:\Code\Desafios\INDT\src\PropostaService.Api\obj\Debug\net8.0\PropostaService.Api.sourcelink.json

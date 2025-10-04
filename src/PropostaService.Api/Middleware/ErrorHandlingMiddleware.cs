@@ -1,7 +1,6 @@
 using System.Net;
-using ContratacaoService.Application.Errors;
 
-namespace ContratacaoService.Api.Middleware;
+namespace PropostaService.Api.Middleware;
 
 public class ErrorHandlingMiddleware
 {
@@ -18,22 +17,15 @@ public class ErrorHandlingMiddleware
         {
             await _next(context);
         }
-        catch (NotFoundException nf)
-        {
-            context.Response.StatusCode = (int)HttpStatusCode.NotFound;
-            await context.Response.WriteAsJsonAsync(new { error = nf.Message });
-        }
-        catch (BusinessRuleException br)
-        {
-            context.Response.StatusCode = StatusCodes.Status422UnprocessableEntity;
-            await context.Response.WriteAsJsonAsync(new { error = br.Message });
-        }
         catch (ArgumentException arg)
         {
             context.Response.StatusCode = StatusCodes.Status400BadRequest;
             await context.Response.WriteAsJsonAsync(new { error = arg.Message });
         }
+        catch (KeyNotFoundException knf)
+        {
+            context.Response.StatusCode = (int)HttpStatusCode.NotFound;
+            await context.Response.WriteAsJsonAsync(new { error = knf.Message });
+        }
     }
 }
-
-

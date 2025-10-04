@@ -10,9 +10,9 @@ C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\Con
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ContratacaoService.Infrastructure.AssemblyInfoInputs.cache
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ContratacaoService.Infrastructure.AssemblyInfo.cs
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ContratacaoService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ContratacaoService.Infrastructure.sourcelink.json
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\Contrata.BFE7DE9F.Up2Date
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ContratacaoService.Infrastructure.dll
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\refint\ContratacaoService.Infrastructure.dll
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ContratacaoService.Infrastructure.pdb
 C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ref\ContratacaoService.Infrastructure.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Infrastructure\obj\Debug\net8.0\ContratacaoService.Infrastructure.sourcelink.json

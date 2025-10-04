@@ -1,3 +1,4 @@
+C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PropostaService.Tests
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\testhost.dll
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\testhost.exe
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -86,18 +87,17 @@ C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\zh-Hans\Micro
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\PropostaService.Domain.dll
+C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\PropostaService.Domain.pdb
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.csproj.AssemblyReference.cache
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.AssemblyInfoInputs.cache
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.AssemblyInfo.cs
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.csproj.CoreCompileInputs.cache
+C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.sourcelink.json
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\Proposta.75D794E4.Up2Date
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.dll
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\refint\PropostaService.Tests.dll
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.pdb
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.genruntimeconfig.cache
 C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\ref\PropostaService.Tests.dll
-C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PropostaService.Tests
-C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\PropostaService.Domain.dll
-C:\Code\Desafios\INDT\tests\PropostaService.Tests\bin\Debug\net8.0\PropostaService.Domain.pdb
-C:\Code\Desafios\INDT\tests\PropostaService.Tests\obj\Debug\net8.0\PropostaService.Tests.sourcelink.json

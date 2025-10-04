@@ -8,9 +8,9 @@ C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\Contra
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ContratacaoService.Application.AssemblyInfoInputs.cache
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ContratacaoService.Application.AssemblyInfo.cs
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ContratacaoService.Application.csproj.CoreCompileInputs.cache
+C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ContratacaoService.Application.sourcelink.json
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\Contrata.A758128A.Up2Date
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ContratacaoService.Application.dll
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\refint\ContratacaoService.Application.dll
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ContratacaoService.Application.pdb
 C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ref\ContratacaoService.Application.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Application\obj\Debug\net8.0\ContratacaoService.Application.sourcelink.json

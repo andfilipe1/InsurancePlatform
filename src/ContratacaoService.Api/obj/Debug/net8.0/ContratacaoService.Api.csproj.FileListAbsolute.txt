@@ -23,6 +23,7 @@ C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoSer
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.csproj.CoreCompileInputs.cache
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.sourcelink.json
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\scopedcss\bundle\ContratacaoService.Api.styles.css
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -39,4 +40,3 @@ C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\refint\Contrat
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.pdb
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.genruntimeconfig.cache
 C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ref\ContratacaoService.Api.dll
-C:\Code\Desafios\INDT\src\ContratacaoService.Api\obj\Debug\net8.0\ContratacaoService.Api.sourcelink.json

@@ -10,9 +10,9 @@ C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\Propos
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.AssemblyInfoInputs.cache
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.AssemblyInfo.cs
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.sourcelink.json
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\Proposta.17E83936.Up2Date
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.dll
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\refint\PropostaService.Infrastructure.dll
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.pdb
 C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\ref\PropostaService.Infrastructure.dll
-C:\Code\Desafios\INDT\src\PropostaService.Infrastructure\obj\Debug\net8.0\PropostaService.Infrastructure.sourcelink.json
