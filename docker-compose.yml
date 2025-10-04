@@ -6,7 +6,7 @@ services:
       context: ./src/PropostaService.Api
       dockerfile: Dockerfile
     ports:
-      - "5201:8080"
+      - "5119:8080"
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
 
@@ -15,7 +15,7 @@ services:
       context: ./src/ContratacaoService.Api
       dockerfile: Dockerfile
     ports:
-      - "5202:8080"
+      - "5111:8080"
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - PropostaService__BaseUrl=http://proposta:8080/
