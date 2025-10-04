@@ -19,8 +19,8 @@ builder.Services.AddScoped<ContratacaoQueries>();
 // HttpClient para PropostaService (ajuste a URL via config)
 builder.Services.AddHttpClient<IPropostaStatusClient, PropostaStatusHttpClient>(client =>
 {
-    // Em dev, assumimos PropostaService em http://localhost:5201
-    var baseUrl = builder.Configuration.GetValue<string>("PropostaService:BaseUrl") ?? "http://localhost:5201/";
+    // Em dev, assumimos PropostaService em http://localhost:5119
+    var baseUrl = builder.Configuration.GetValue<string>("PropostaService:BaseUrl") ?? "http://localhost:5119/";
     client.BaseAddress = new Uri(baseUrl);
 });
 
