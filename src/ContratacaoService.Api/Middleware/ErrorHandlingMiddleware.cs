@@ -33,6 +33,11 @@ public class ErrorHandlingMiddleware
             context.Response.StatusCode = StatusCodes.Status400BadRequest;
             await context.Response.WriteAsJsonAsync(new { error = arg.Message });
         }
+        catch (HttpRequestException http)
+        {
+            context.Response.StatusCode = StatusCodes.Status503ServiceUnavailable;
+            await context.Response.WriteAsJsonAsync(new { error = "Serviço de propostas indisponível. Tente novamente mais tarde." });
+        }
     }
 }
 
